@@ -1,3 +1,3 @@
 line 1 
-modifed
+resolved conflict
 line 2
