@@ -1,3 +1,5 @@
 line 1 
-resolved conflict
+rfskmalkfwofm
+asfwa'fawfwafawfwafa wawf 
+asfwfaw afawfaf aasfaw:wqesolved conflict
 line 2
